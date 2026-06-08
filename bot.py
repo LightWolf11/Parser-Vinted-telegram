@@ -307,12 +307,6 @@ def main_menu(chat_id: int) -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton(
-                    "🔥 Самая дешевая доставка - здесь",
-                    url="https://t.me/tak3datsh1toff",
-                )
-            ],
-            [
                 InlineKeyboardButton("🎯 Выбрать бренды", callback_data="menu:brands"),
                 InlineKeyboardButton("ℹ️ Статус", callback_data="menu:status"),
             ],
