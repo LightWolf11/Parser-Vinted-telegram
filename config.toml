@@ -1,0 +1,6 @@
+tel = "token_bot_telegram"
+# Proxy disabled — run bot without proxy by leaving these blank
+proxy_string = ""
+proxy_change_url = ""
+stripe_secret_key = ""
+vinted_cookie_ttl_seconds = 1800

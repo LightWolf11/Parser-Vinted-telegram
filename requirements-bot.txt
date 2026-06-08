@@ -1,0 +1,7 @@
+vinted-api-wrapper==0.3.9
+python-telegram-bot==21.6
+requests>=2.0
+PySocks>=1.7.1
+brotli
+selenium>=4.0
+webdriver-manager>=4.0
